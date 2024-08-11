@@ -9,20 +9,12 @@ Introduction
 The SQL Data Analysis project aims to provide a comprehensive guide to performing data analysis using SQL. Whether you're new to SQL or looking to sharpen your skills, this repository offers a range of examples and queries that can help you understand how to work with relational databases effectively.
 Project Structure
 
-The repository is organized as follows:
+The repository contains:
 
-    Datasets/: Contains the datasets used for analysis.
-    Queries/: Includes various SQL query scripts that demonstrate different data analysis techniques.
-    Examples/: Provides example outputs and use cases for the SQL queries.
+Datasets/: Contains the datasets used for analysis.
+Queries/: Includes various SQL query scripts that demonstrate different data analysis techniques.
+Examples/: Provides example outputs and use cases for the SQL queries.
 
-    Clone the repository:
-
-    git clone https://github.com/shrutiijainn11/SQL-Data-Analysis.git
-    cd SQL-Data-Analysis
-
-    Set up a SQL environment:
-        You can use any SQL database management system (DBMS) like MySQL, PostgreSQL, or SQLite.
-        Import the datasets provided in the Datasets/ directory into your DBMS.
 
 Usage
 
@@ -57,5 +49,10 @@ Contact
 For any questions, feel free to reach out:
 
     Name: Shruti Jain
-    Email: shrutiijainn11@example.com
+    Email: jshruti034@gmail.com
     GitHub: shrutiijainn11
+
+Clone the repository:
+
+    git clone https://github.com/shrutiijainn11/SQL-Data-Analysis.git
+    cd SQL-Data-Analysis
