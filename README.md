@@ -3,16 +3,6 @@
 Overview
 
 This repository contains SQL scripts and datasets used for performing various data analysis tasks. The focus is on leveraging SQL to extract, manipulate, and analyze data, providing insights into different datasets.
-Table of Contents
-
-    Introduction
-    Project Structure
-    Installation
-    Usage
-    Examples
-    Contributing
-    License
-    Contact
 
 Introduction
 
