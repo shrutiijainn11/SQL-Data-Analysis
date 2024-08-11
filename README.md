@@ -15,13 +15,7 @@ The repository is organized as follows:
     Queries/: Includes various SQL query scripts that demonstrate different data analysis techniques.
     Examples/: Provides example outputs and use cases for the SQL queries.
 
-Installation
-
-To use the SQL scripts provided in this repository, follow these steps:
-
     Clone the repository:
-
-    bash
 
     git clone https://github.com/shrutiijainn11/SQL-Data-Analysis.git
     cd SQL-Data-Analysis
@@ -58,9 +52,6 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     Push to the branch (git push origin feature-branch).
     Open a Pull Request.
 
-License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 Contact
 
 For any questions, feel free to reach out:
