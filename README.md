@@ -1,10 +1,10 @@
 # SQL-Data-Analysis
 
-**Overview**
+## Overview
 
 This repository contains SQL scripts and datasets used for performing various data analysis tasks. The focus is on leveraging SQL to extract, manipulate, and analyze data, providing insights into different datasets.
 
-**Introduction**
+## Introduction
 
 The SQL Data Analysis project aims to provide a comprehensive guide to performing data analysis using SQL. Whether you're new to SQL or looking to sharpen your skills, this repository offers a range of examples and queries that can help you understand how to work with relational databases effectively.
 Project Structure
