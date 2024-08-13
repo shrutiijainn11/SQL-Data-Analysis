@@ -16,7 +16,7 @@ Queries/: Includes various SQL query scripts that demonstrate different data ana
 Examples/: Provides example outputs and use cases for the SQL queries.
 
 
-Usage
+## Usage
 
 The SQL scripts in this repository can be executed in any SQL environment. Follow these steps to run a script:
 
@@ -25,7 +25,7 @@ The SQL scripts in this repository can be executed in any SQL environment. Follo
     Open the SQL script from the Queries/ directory.
     Run the script in your SQL environment.
 
-Examples
+## Examples
 
 Here are some examples of what you can do with the SQL scripts in this repository:
 
@@ -34,7 +34,7 @@ Here are some examples of what you can do with the SQL scripts in this repositor
     Aggregations: Perform aggregations like SUM, COUNT, AVG to gain insights from the data.
     Joins: Combine data from multiple tables using JOIN operations.
 
-Contributing
+## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
@@ -44,13 +44,9 @@ Contributions are welcome! If you'd like to contribute, please follow these step
     Push to the branch (git push origin feature-branch).
     Open a Pull Request.
 
-Contact
+## Contact
 
-For any questions, feel free to reach out:
-
-    Name: Shruti Jain
-    Email: jshruti034@gmail.com
-    GitHub: shrutiijainn11
+For any questions, feel free to reach out: jshruti034@gmail.com
 
 Clone the repository:
 
