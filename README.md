@@ -17,35 +17,30 @@ Project Structure
 
 
 ## Usage
-
 The SQL scripts in this repository can be executed in any SQL environment. Follow these steps to run a script:
 
-    - Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, etc.).
-    - Load the dataset into your database if not already done.
-    - Open the SQL script from the Queries/ directory.
-    - Run the script in your SQL environment.
+- Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, etc.).
+- Load the dataset into your database if not already done.
+- Open the SQL script from the Queries/ directory.
+- Run the script in your SQL environment.
 
 ## Examples
+Here are some examples of what you can do with the SQL scripts in this repository:
 
-**Here are some examples of what you can do with the SQL scripts in this repository:**
-
-    - **Data Extraction**: Learn how to extract specific data from large datasets using SELECT statements.
-    
-    - **Data Filtering**: Use WHERE clauses to filter data based on specific conditions.
-    
-    - **Aggregations**: Perform aggregations like SUM, COUNT, AVG to gain insights from the data.
-    
-    - **Joins**: Combine data from multiple tables using JOIN operations.
+- **Data Extraction**: Learn how to extract specific data from large datasets using SELECT statements.
+- **Data Filtering**: Use WHERE clauses to filter data based on specific conditions.
+- **Aggregations**: Perform aggregations like SUM, COUNT, AVG to gain insights from the data.
+- **Joins**: Combine data from multiple tables using JOIN operations.
 
 ## Contributing
 
 Contributions are welcome! If you'd like to contribute, please follow these steps:
 
-    Fork the repository.
-    Create a new branch (git checkout -b feature-branch).
-    Make your changes and commit them (git commit -m 'Add new feature').
-    Push to the branch (git push origin feature-branch).
-    Open a Pull Request.
+- Fork the repository.
+- Create a new branch (git checkout -b feature-branch).
+- Make your changes and commit them (git commit -m 'Add new feature').
+- Push to the branch (git push origin feature-branch).
+- Open a Pull Request.
 
 ## Contact
 
