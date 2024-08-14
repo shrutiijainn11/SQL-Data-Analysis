@@ -9,21 +9,21 @@ This repository contains SQL scripts and datasets used for performing various da
 The SQL Data Analysis project aims to provide a comprehensive guide to performing data analysis using SQL. Whether you're new to SQL or looking to sharpen your skills, this repository offers a range of examples and queries that can help you understand how to work with relational databases effectively.
 Project Structure
 
-The repository contains:
+## The repository contains:
 
-Datasets/: Contains the datasets used for analysis.
-Queries/: Includes various SQL query scripts that demonstrate different data analysis techniques.
-Examples/: Provides example outputs and use cases for the SQL queries.
+- **Datasets/**: Contains the datasets used for analysis.
+- **Queries/**: Includes various SQL query scripts that demonstrate different data analysis techniques.
+- **Examples/**: Provides example outputs and use cases for the SQL queries.
 
 
 ## Usage
 
 The SQL scripts in this repository can be executed in any SQL environment. Follow these steps to run a script:
 
-    Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, etc.).
-    Load the dataset into your database if not already done.
-    Open the SQL script from the Queries/ directory.
-    Run the script in your SQL environment.
+    - Open your SQL database management tool (e.g., MySQL Workbench, pgAdmin, etc.).
+    - Load the dataset into your database if not already done.
+    - Open the SQL script from the Queries/ directory.
+    - Run the script in your SQL environment.
 
 ## Examples
 
