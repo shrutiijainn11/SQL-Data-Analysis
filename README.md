@@ -27,7 +27,7 @@ The SQL scripts in this repository can be executed in any SQL environment. Follo
 
 ## Examples
 
-Here are some examples of what you can do with the SQL scripts in this repository:
+**Here are some examples of what you can do with the SQL scripts in this repository:**
 
     - **Data Extraction**: Learn how to extract specific data from large datasets using SELECT statements.
     - **Data Filtering**: Use WHERE clauses to filter data based on specific conditions.
